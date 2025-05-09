@@ -6,22 +6,14 @@ namespace PodeVotar.Test;
 public sealed class VotoUnitTest
 {
     [TestMethod]
-    public void Teste_Idade18_PodeVotar()
+    [DataRow("Henry", 18, true)]
+    [DataRow("Felipe", 15, false)]
+    [DataRow("Maicon", 23, true)]
+    [DataRow("Luiz", 12, false)]
+    public void Teste_PodeVotar(string nome, int idade, bool resultadoEsperado)
     {
-        Pessoa pessoa = new Pessoa("Henry", 18);
+        Pessoa pessoa = new Pessoa(nome, idade);
 
-        bool resultadoEsperado = true;
-        bool resultadoObtido = pessoa.PodeVotar();
-
-        Assert.AreEqual(resultadoEsperado, resultadoObtido);
-    }
-
-    [TestMethod]
-    public void Teste_Idade15_NaoPodeVotar()
-    {
-        Pessoa pessoa = new Pessoa("Felipe", 15);
-
-        bool resultadoEsperado = false;
         bool resultadoObtido = pessoa.PodeVotar();
 
         Assert.AreEqual(resultadoEsperado, resultadoObtido);
