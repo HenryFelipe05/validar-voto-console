@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\PodeVotar\\PodeVotar.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar\\PodeVotar.csproj",
       "projectName": "PodeVotar",
-      "projectPath": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\PodeVotar\\PodeVotar.csproj",
+      "projectPath": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar\\PodeVotar.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\PodeVotar\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

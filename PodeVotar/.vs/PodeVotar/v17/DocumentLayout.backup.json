@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\",
+  "WorkspaceRootPath": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E46364D8-ECEB-4D51-959E-A8B7D6F2010D}|PodeVotar\\PodeVotar.csproj|c:\\users\\etec\\desktop\\podevotar-henry\\podevotar\\podevotar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E80577-8588-49FC-8C65-D6894265FC4A}|PodeVotar.Test\\PodeVotar.Test.csproj|c:\\users\\etec\\desktop\\validar-voto-console\\podevotar\\podevotar.test\\votounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E80577-8588-49FC-8C65-D6894265FC4A}|PodeVotar.Test\\PodeVotar.Test.csproj|solutionrelative:podevotar.test\\votounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46364D8-ECEB-4D51-959E-A8B7D6F2010D}|PodeVotar\\PodeVotar.csproj|c:\\users\\etec\\desktop\\validar-voto-console\\podevotar\\podevotar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E46364D8-ECEB-4D51-959E-A8B7D6F2010D}|PodeVotar\\PodeVotar.csproj|solutionrelative:podevotar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E46364D8-ECEB-4D51-959E-A8B7D6F2010D}|PodeVotar\\PodeVotar.csproj|c:\\users\\etec\\desktop\\podevotar-henry\\podevotar\\podevotar\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46364D8-ECEB-4D51-959E-A8B7D6F2010D}|PodeVotar\\PodeVotar.csproj|solutionrelative:podevotar\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9E80577-8588-49FC-8C65-D6894265FC4A}|PodeVotar.Test\\PodeVotar.Test.csproj|c:\\users\\etec\\desktop\\validar-voto-console\\podevotar\\podevotar.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E80577-8588-49FC-8C65-D6894265FC4A}|PodeVotar.Test\\PodeVotar.Test.csproj|solutionrelative:podevotar.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\PodeVotar\\Pessoa.cs",
-              "RelativeDocumentMoniker": "PodeVotar\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\PodeVotar\\Pessoa.cs",
-              "RelativeToolTip": "PodeVotar\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "VotoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar.Test\\VotoUnitTest.cs",
+              "RelativeDocumentMoniker": "PodeVotar.Test\\VotoUnitTest.cs",
+              "ToolTip": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar.Test\\VotoUnitTest.cs",
+              "RelativeToolTip": "PodeVotar.Test\\VotoUnitTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T22:41:37.027Z",
+              "WhenOpened": "2025-05-09T22:26:03.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar.Test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "PodeVotar.Test\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar.Test\\MSTestSettings.cs",
+              "RelativeToolTip": "PodeVotar.Test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T22:25:07.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\PodeVotar\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar\\Program.cs",
               "RelativeDocumentMoniker": "PodeVotar\\Program.cs",
-              "ToolTip": "C:\\Users\\etec\\Desktop\\PodeVotar-Henry\\PodeVotar\\PodeVotar\\Program.cs",
+              "ToolTip": "C:\\Users\\etec\\Desktop\\validar-voto-console\\PodeVotar\\PodeVotar\\Program.cs",
               "RelativeToolTip": "PodeVotar\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T22:40:21.115Z",
               "EditorCaption": ""
